@@ -1,0 +1,23 @@
+{
+  "name": "furry-succotash",
+  "version": "1.0.0",
+  "description": "place for learning about node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwilhe2/furry-succotash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwilhe2/furry-succotash/issues"
+  },
+  "homepage": "https://github.com/fwilhe2/furry-succotash#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
